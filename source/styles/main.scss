@@ -1,0 +1,7 @@
+@use 'variaveis';
+@use 'config';
+
+body {
+    background-color: variaveis.$corPrincipal;
+}
+
